@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ### 3. Download the Trained Model
 
-The trained YOLOv8 model weights are provided as `my_model.pt`. If not, you can [download it from here](#) and place it in the root directory.
+The trained YOLOv8 model weights are provided as `my_model.pt`. If not, you can [download it from here](https://github.com/Sricharan1626/ObjectDtection_yolov8/archive/refs/heads/main.zip) and place it in the root directory.
 
 ---
 

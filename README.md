@@ -1,5 +1,5 @@
 
-#Object Detection with YOLOv8
+# Object Detection with YOLOv8
 
 This repository contains an object detection model built using YOLOv8, specifically trained to detect the following classes:
 - Car

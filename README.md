@@ -1,5 +1,5 @@
-````markdown name=README.md
-# Object Detection with YOLOv8
+
+#Object Detection with YOLOv8
 
 This repository contains an object detection model built using YOLOv8, specifically trained to detect the following classes:
 - Car
@@ -93,4 +93,4 @@ All the graphs related to model training and evaluation can be found in the `my_
 ---
 
 For any questions or suggestions, please open an issue in this repository.
-````
+
